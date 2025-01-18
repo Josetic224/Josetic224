@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I’m  Joseph Ochiagha<br>🌱 I’m a Backend and Smart-Contract Developer<br>I'm currently learning Web3<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm Tired of Javascript.</h3>
+<h5 align="left">👋 Hi, I’m  Joseph Ochiagha<br>🌱 I’m a Backend and Smart-Contract Developer<br>I'm currently learning Web3<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm Tired of Javascript.</h5>
 
 ###
 
@@ -23,13 +23,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josetic224&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=false" height="243" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josetic224&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="225" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/joseph-ochiagha-749853317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="31" alt="linkedin logo"  />
   </a>
@@ -42,6 +35,13 @@
   <a href="https://www.youtube.com/@olivecyber" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="31" alt="youtube logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josetic224&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=false" height="243" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josetic224&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="225" alt="languages graph"  />
 </div>
 
 ###
